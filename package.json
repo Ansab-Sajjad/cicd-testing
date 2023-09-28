@@ -20,5 +20,5 @@
     "cypress": "^10.10.0",
     "cypress-file-upload": "^5.0.8"
   },
-  "description": ""
+  "description": "To setup this repository follow below steps."
 }
